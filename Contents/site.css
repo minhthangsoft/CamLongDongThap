@@ -1,0 +1,15 @@
+.home-container .header{
+    background-color: #014229;
+    min-height: 40px;
+    line-height: 40px;
+    color: #ffffff;
+}
+
+.home-container .header .icon{
+    padding-bottom: 4px;
+}
+
+.home-container .header a{
+    color: #ffffff;
+    text-decoration: none;
+}
